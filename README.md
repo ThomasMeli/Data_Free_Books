@@ -27,3 +27,4 @@ Free Books for learning Data Science, Data Visualization, and Machine Learning.
 * **Bayesian Modeling and Computation in Python** https://bayesiancomputationbook.com/welcome.html
 * **Bayesian Reasoning and Machine Learning - David Barber** http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/200620.pdf
 * **Gaussian Processes for Machine Learning Rasmussen, et al.** - http://www.gaussianprocess.org/gpml/chapters/
+* **Reinforcement Learning: an Introduction - Sutton**- http://incompleteideas.net/book/RLbook2020.pdf
