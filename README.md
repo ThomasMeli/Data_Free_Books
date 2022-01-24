@@ -5,7 +5,7 @@ Free Books for learning Data Science, Data Visualization, and Machine Learning.
 
 ### General DataViz and Data Science
 * **Free Data Science Books Archive** https://www.learndatasci.com/free-data-science-books/
-* **Data Visualizatio - Kieran Healy** https://socviz.co
+* **Data Visualization - Kieran Healy** https://socviz.co
 * **Fundamentals of Data Visualization - Claus O Wilke** https://clauswilke.com/dataviz/
 
 
