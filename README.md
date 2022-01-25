@@ -17,6 +17,7 @@ Free Books for learning Data Science, Data Visualization, and Machine Learning.
 * **An introduction to Empirical Bayes - David Robinson** - https://drob.gumroad.com/l/empirical-bayes
 
 ### Free Python Books
+* **Python for Data Analysis, 3rd Edition** https://wesmckinney.com/book/
 * **Automate the boring stuff** https://automatetheboringstuff.com
 * **Learn more Python the Hard way** - https://learncodethehardway.org/more-python-book/
 * ****
