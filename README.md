@@ -38,5 +38,7 @@ Free Books for learning Data Science, Data Visualization, and Machine Learning.
 * **Reinforcement Learning: an Introduction - Sutton**- http://incompleteideas.net/book/RLbook2020.pdf
 
 ### Computer Graphics Books
+I include this here because I use computer graphics libraries for my data science explainers.
 
+* **Introduction to Computer Graphics** - https://math.hws.edu/graphicsbook/
 * **Physically Based Rendering** https://pbr-book.org/3ed-2018/contents
