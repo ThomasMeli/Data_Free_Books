@@ -8,15 +8,18 @@ Free Books for learning Data Science, Data Visualization, and Machine Learning.
 * **Data Visualization - Kieran Healy** https://socviz.co
 * **Fundamentals of Data Visualization - Claus O Wilke** https://clauswilke.com/dataviz/
 
+### Free Julia Based Books
+* **Julia Data Science** - https://juliadatascience.io
+* **Introduction to Probability for Data Science** https://probability4datascience.com/index.html
 
-### Free R Books
+### Free R Based Books
 * **R for data science - Hadley Wickam** https://r4ds.had.co.nz
 * **Advanced R - Hadley Wickam** http://adv-r.had.co.nz
 * **R Packages - Hadley Wickam** https://r-pkgs.org
 * **Satistical Inference via Data Science with Tidyversee** - https://moderndive.com
 * **An introduction to Empirical Bayes - David Robinson** - https://drob.gumroad.com/l/empirical-bayes
 
-### Free Python Books
+### Free Python Based Books
 * **Python for Data Analysis, 3rd Edition** https://wesmckinney.com/book/
 * **Automate the boring stuff** https://automatetheboringstuff.com
 * **Learn more Python the Hard way** - https://learncodethehardway.org/more-python-book/
