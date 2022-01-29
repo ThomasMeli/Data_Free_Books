@@ -1,7 +1,7 @@
 # Data_Free_Books
 Free Books for learning Data Science, Data Visualization, and Machine Learning.
 
-## Free Online Books on Data Science
+## Free Online Books on Data Science and Related Fields
 
 ### General DataViz and Data Science
 * **Free Data Science Books Archive** https://www.learndatasci.com/free-data-science-books/
@@ -11,8 +11,8 @@ Free Books for learning Data Science, Data Visualization, and Machine Learning.
 ### Statistics and Probability Books
 * **Introduction to Probability for Data Science** https://probability4datascience.com/index.html
 
-
 ### Free Julia Based Books
+* **Free and Open Computational Thinking (Julia)** https://computationalthinking.mit.edu/Spring21/
 * **Julia Data Science** - https://juliadatascience.io
 
 ### Free R Based Books
