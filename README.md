@@ -14,6 +14,7 @@ Free Books for learning Data Science, Data Visualization, and Machine Learning.
 ### Free Julia Based Books
 * **Free and Open Computational Thinking (Julia)** https://computationalthinking.mit.edu/Spring21/
 * **Julia Data Science** - https://juliadatascience.io
+* **Julia Academy** - Online courses (it's kind of like a book, just go with it) - https://juliaacademy.com
 
 ### Free R Based Books
 * **R for data science - Hadley Wickam** https://r4ds.had.co.nz
