@@ -43,3 +43,7 @@ I include this here because I use computer graphics libraries for my data scienc
 * **Computer Graphics From Scratch** - https://www.gabrielgambetta.com/computer-graphics-from-scratch/
 * **Introduction to Computer Graphics** - https://math.hws.edu/graphicsbook/
 * **Physically Based Rendering** https://pbr-book.org/3ed-2018/contents
+
+### Mathematics that can apply to ML
+
+* **Applied Combinatorics** https://www.rellek.net/book/app-comb.html
