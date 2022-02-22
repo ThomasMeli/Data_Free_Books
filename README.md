@@ -27,7 +27,7 @@ Free Books for learning Data Science, Data Visualization, and Machine Learning.
 * **Python for Data Analysis, 3rd Edition** https://wesmckinney.com/book/
 * **Automate the boring stuff** https://automatetheboringstuff.com
 * **Learn more Python the Hard way** - https://learncodethehardway.org/more-python-book/
-* ****
+* **Python 3 Recipes, Patterns, Idioms** - https://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html
 
 ### Machine Learning Books
 * **Elements of Statistical Learning - Hastie, et al.** https://hastie.su.domains/ElemStatLearn/
